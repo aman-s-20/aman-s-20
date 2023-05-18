@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-s-20&label=Profile%20views&color=0e75b6&style=flat" alt="aman-s-20" /> </p>
 
-- 🔭 I’m currently working on **keeper app**
-
-- 🌱 I’m currently learning **Node.js**
-
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **amansingh30008@gmail.com**
