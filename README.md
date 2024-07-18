@@ -51,4 +51,4 @@
 
 ## 📞 Contact Me
 * Email Id: amansingh30008@gmail.com
-* LinkedIn : [Aman Singh](https://www.linkedin.com/in/amansingh3008/)
+* LinkedIn : [Aman Singh](https://www.linkedin.com/in/amansingh30008/)
